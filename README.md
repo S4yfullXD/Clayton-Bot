@@ -1,4 +1,4 @@
-## BUMS BOT
+## CLAYTON BOT
 
 ## BOT FEATURE
 
@@ -21,7 +21,7 @@ pkg install nodejs-lts
 pkg install git
 ```
    ```bash
-   git clone https://github.com/Not-D4rkCipherX/clayton_v3.git
+   git clone https://github.com/S4yfullXD/Clayton-Bot.git
    ```
    ```bash
    cd clayton_v3
