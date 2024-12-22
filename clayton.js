@@ -8,6 +8,8 @@ const user_agents = require("./config/userAgents");
 const settings = require("./config/config");
 const { sleep, getRandomNumber } = require("./utils");
 const { checkBaseUrl } = require("./checkAPI");
+const clear = require('clear');
+clear();
 
 class Clayton {
   constructor(accountIndex, initData, session_name, baseURL) {
