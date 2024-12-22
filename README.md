@@ -24,7 +24,7 @@ pkg install git
    git clone https://github.com/S4yfullXD/Clayton-Bot.git
    ```
    ```bash
-   cd clayton_v3
+   cd  Clayton-Bot
    ```
 
 2. **Instal Requirements:**
@@ -53,4 +53,3 @@ For those using multiple accounts, it's recommended to use a proxy (if using onl
 http://username:passwoord@hostname:port
 socks5://username:password@hostname:port
 ```
-**TUTORIAL AVAILABLE ON MY YT**
